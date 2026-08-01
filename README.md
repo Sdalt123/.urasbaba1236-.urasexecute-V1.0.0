@@ -8,7 +8,7 @@ This release allows you to create, edit, and manage your custom `.urasbaba` file
 
 To ensure the custom file types open automatically on double-click and display their unique logos, follow these 3 simple steps:
 
-1. **Extract the Folder:** Download and extract the `urasbaba.zip` archive to any directory on your computer (e.g., your Desktop).
+1. **Extract the Folder:** Download and extract the `urasbaba.rar` archive to any directory on your computer (e.g., your Desktop).
 2. **Register the File Types:** Inside the extracted folder, double-click the `download-urasbaba-file-format.reg` file. Click **Yes** and then **OK** on the Windows confirmation prompts.
 3. **Setup Complete!** Your system now fully recognizes `.urasbaba` and `.urasexecute` extensions. Please keep all the files in the same folder to maintain the file associations.
 
